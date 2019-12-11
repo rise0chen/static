@@ -1,0 +1,8 @@
+ed25519
+Public key (hex):  0x60b07969668f8ed0106176ad809df4a2bd11c124e38f40735898bc1c0f437e7f
+Public key (SS58): 5EFUssWEpa9WZwX3oDWFpcdHyrL6hqHses4RgkCennCDv96t
+
+sr25519
+Public key (hex):  0xd2a687296d34d323c4adbcc7d225c3f2ab3fd69b1a7dc8c32733122737e3745b
+Public key (SS58): 5GpuP7c34yrRdmaBW5HGpoUrkUAHJGpFnTggGRBVKsfu7aWz
+
